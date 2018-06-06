@@ -1,9 +1,30 @@
+body {
+	margin: auto;
+	max-width: 900px;
+	font-family: 'Merriweather', serif;
+}
+
 h1 {
- color: skyblue;
+	color: skyblue;
 }
 
 img {
- float: right;
- width: 300px;
- height: 300px;
+	float: right;
+	width: 300px;
+	height: 300px;
+}
+
+.right {
+	display: inline;
+	float: right;
+	width: 25%;
+}
+
+.name {
+	font-size: 65px;
+}
+
+.statement {
+	max-width: 70%;
+	font-size: 20px;
 }

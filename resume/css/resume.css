@@ -145,3 +145,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.technologies {
+  text-align: center;
+  padding-left: 5px;
+}

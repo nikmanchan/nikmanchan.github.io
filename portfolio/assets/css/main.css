@@ -1789,7 +1789,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #e5474b;
+		color: black;
 	}
 
 	blockquote {
@@ -1957,8 +1957,8 @@
 		button.alt,
 		.button.alt {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #e5474b;
-			color: #e5474b !important;
+			box-shadow: inset 0 0 0 2px green;
+			color: green !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -3365,7 +3365,7 @@
 		color: #f2a3a5;
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
-		background-image: url("https://uploads-ssl.webflow.com/598a57abc327c10001ea6585/59a70841ca51d80001ea0be5_shutterstock_603025976.jpg");
+		background-image: url("https://cdn.vox-cdn.com/thumbor/aZQ2Ka-6MI0w1hBNSMU2N5E3r1g=/0x0:5750x3900/1200x800/filters:focal(3246x0:4166x920)/cdn.vox-cdn.com/uploads/chorus_image/image/59774901/GettyImages_184106918.0.jpg");
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
 		background-position: 15% left;

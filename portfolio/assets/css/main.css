@@ -3098,7 +3098,7 @@
 	}
 
 	#header {
-		background: #1c1c1c;
+		background: skyblue;
 		color: #d5d5d5;
 		cursor: default;
 		height: 5em;
@@ -3137,7 +3137,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			color: #4169e1;
+			color: black;
 			font-size: 1.75em;
 			text-transform: none;
 			font-weight: normal;
